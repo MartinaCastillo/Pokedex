@@ -1,2 +1,2 @@
 # Pokedex
-Created with CodeSandbox
+Pokedex React
